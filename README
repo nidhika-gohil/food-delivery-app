@@ -1,0 +1,64 @@
+1. what is cdn? place where react library is hosted
+2. what is crossorigin attribute in script tag?
+
+# Parcel
+ - dev build
+ - local server
+ - HMR hot module replacement
+ - File watching algorith written in cpp
+ - caching - Faster builds
+ - Image optimisation
+ - Minification
+ - Bundling
+ - compressing
+ - consistent hashing
+ - code splitting
+ - Differential bundling - support of older browsers
+ - Error handling / diagnostics
+ - Host app on https as well
+ - tree shaking - remove unused code
+ - Diffrent dev and prod bundles
+ 
+ 
+/**
+ * Header
+ *  - Logo
+ *  - Nav items
+ * Body
+ *  - Search
+ *  - RestaurantContainer
+ *    - RestaurantCard
+ *      - img
+ *      - Name of Restaurant, start rating, cuisine, delivery time
+ *
+ * Footer
+ *  - copyrights
+ *  - Links
+ *  - Address
+ *  - Contact
+ */
+
+ Default export 
+ export default Component;
+ import Component from "path";
+
+ Named export
+ export const constants;
+ import {constants} from "path";
+
+#React Hooks - Normal javascript utility functions
+- useState() - super powerful react variables
+- useEffect() - gets called when the component is rendered and depending on the dependency array
+
+#Redux Toolkit
+- Install @reduxjs/toolkit and react-redux
+- build the store
+- connect store to the app
+- Slice (createSlice)
+- dispatch(action)
+- selector
+
+
+
+
+

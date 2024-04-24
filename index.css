@@ -1,0 +1,92 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/*.header {
+  display: flex;
+  justify-content: space-between;
+  border: 1px solid black;
+}
+
+.logo-container > .logo {
+  width: 200px;
+  height: 90px; 
+}
+
+.header > .nav-items > ul {
+  display: flex;
+  padding: 0px 30px;
+}
+
+
+ul > .nav-list {
+  list-style: none;
+  padding: 10px;
+  margin: 10px;
+  font-size: 20px;
+}
+
+.body > .search {
+  padding: 20px;
+}
+
+.filter {
+  display: flex;
+  margin: 10px;
+}
+
+.filter > .filter-btn {
+  margin-left: 10px;
+  margin-right: 10px;
+  cursor: pointer;
+}
+
+.res-container .res-card {
+  width: 200px;
+  margin: 5px;
+  padding: 5px;
+  background-color: lightgray;
+}
+
+.res-container {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.res-card > .res-logo {
+  width: 100%;
+}
+
+.res-card:hover {
+  border: 1px solid black;
+}
+
+.shimmer-container {
+  display: flex;
+  flex-wrap: wrap;
+}
+.shimmer-container > .shimmer-card {
+  margin: 20px;
+  width: 200px;
+  height: 400px;
+  background-color: #f0f0f0;
+}
+
+.login {
+  padding: 0.2px 20px;
+  margin: 10px;
+  cursor: pointer;
+  background-color: orange;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  font-weight: 700;
+}
+
+.logged-in {
+  color: green;
+}
+
+.logged-out {
+  color: red;
+}*/
